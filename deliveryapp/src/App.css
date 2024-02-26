@@ -1,0 +1,103 @@
+.bg-custom{
+  background-color: #064242;
+}
+
+.img-custom{  
+  object-fit: cover;
+  height: 100%;  
+}
+
+.list-none{
+  list-style: none;
+  margin: 4px 0;    
+}
+
+.img-slide{
+  object-fit: cover;
+  height: 400px !important;  
+}
+.position-custom{
+  background-color: rgba(255, 255, 255, 0.5) !important;  
+  top:24%;
+  left:5%;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+@media (max-width : 900px) {
+  .position-custom{       
+    left:10%;    
+  }
+}
+
+@media (max-width : 766px) {
+  .position-custom{       
+    left:15%;    
+  }
+}
+
+@media (max-width : 600px) {
+  .position-custom{       
+    left:12%;    
+  }
+}
+
+.footer-custom{
+  background-color: #064242;
+  padding: 20px;  
+  box-shadow: 0 0 10px rgba(0,0,0,0.4);
+}
+
+.footer-custom h3{
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.height_custom{
+  height: 200px;  
+}
+
+
+
+/*#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}*/

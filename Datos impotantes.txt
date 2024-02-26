@@ -1,0 +1,5 @@
+ApiDelivery - ir a la terminal, en la carpeta principal del proyecto poner "node src/index"
+DeliveryApp - ir a la terminal, en la carpeta principal del proyecto poner "npm run dev"
+
+El proyecto deliveryApp funciona con el ApiDelivery que es el primer parcial que lo modifique, el codigo
+que si funciona en postman, pero no en esta aplicación, y ademas se corregieron algunas validaciones con respecto al segundo parcial.
